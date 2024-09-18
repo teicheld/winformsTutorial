@@ -165,3 +165,27 @@ winforms create all windows and buttons
 ## start sprint 4
 
 
+## Sprint Review:
+ 
+we have a database and a connection.
+ - Stakeholder: have no hope for profit.
+
+## retrospective
+
+if there are some open questions leave them open. get things done with tools you don't understand. goal is not the mastery of a toolset. it's shipping a product.
+
+## new capital calculation
+
+c# training: 2/3 hours
+pgp:           1 hour
+database:     1/2 hour
+winform:       1 hour
+
+total:		   3/8 hours
+
+next sprint:
+winforms create all windows and buttons
+
+## end sprint 3
+## --------------------------------------------------------------------------
+## start sprint 4
